@@ -1,0 +1,11 @@
+.bg-info {
+    background-color: brown !important;
+}
+
+.navbar .navbar-nav .dropdown .dropdown-menu {
+    background-color: blueviolet !important;
+}
+
+.navbar .navbar-nav .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: wheat !important;
+}
